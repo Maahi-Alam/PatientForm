@@ -16,3 +16,6 @@
 
 ## Create new patient form
 ![Patient form](https://user-images.githubusercontent.com/22402622/71315041-10874080-247e-11ea-86a1-e84fcc557137.JPG)
+
+## Create new patient form using faker value
+![image](https://user-images.githubusercontent.com/22402622/71315058-ade27480-247e-11ea-940b-b87329c2e3fc.png)
