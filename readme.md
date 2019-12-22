@@ -1,5 +1,8 @@
 <h1 align="center">Create New Patient Form </h1>
 
+## Patient Form
+![image](https://user-images.githubusercontent.com/22402622/71320075-b06dba00-24d0-11ea-9b8a-2800e902834d.png)
+
 
 ## create division database using faker
 ![Patient form1](https://user-images.githubusercontent.com/22402622/71314992-68717780-247d-11ea-8924-9868986866c4.JPG)
